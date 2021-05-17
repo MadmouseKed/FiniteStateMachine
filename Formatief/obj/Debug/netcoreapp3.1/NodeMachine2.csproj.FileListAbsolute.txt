@@ -1,0 +1,13 @@
+D:\Programeren\AdaptiveProgramming\NodeMachine2\NodeMachine2\obj\Debug\netcoreapp3.1\NodeMachine2.csprojAssemblyReference.cache
+D:\Programeren\AdaptiveProgramming\NodeMachine2\NodeMachine2\obj\Debug\netcoreapp3.1\NodeMachine2.AssemblyInfoInputs.cache
+D:\Programeren\AdaptiveProgramming\NodeMachine2\NodeMachine2\obj\Debug\netcoreapp3.1\NodeMachine2.AssemblyInfo.cs
+D:\Programeren\AdaptiveProgramming\NodeMachine2\NodeMachine2\obj\Debug\netcoreapp3.1\NodeMachine2.csproj.CoreCompileInputs.cache
+D:\Programeren\AdaptiveProgramming\NodeMachine2\NodeMachine2\bin\Debug\netcoreapp3.1\NodeMachine2.exe
+D:\Programeren\AdaptiveProgramming\NodeMachine2\NodeMachine2\bin\Debug\netcoreapp3.1\NodeMachine2.deps.json
+D:\Programeren\AdaptiveProgramming\NodeMachine2\NodeMachine2\bin\Debug\netcoreapp3.1\NodeMachine2.runtimeconfig.json
+D:\Programeren\AdaptiveProgramming\NodeMachine2\NodeMachine2\bin\Debug\netcoreapp3.1\NodeMachine2.runtimeconfig.dev.json
+D:\Programeren\AdaptiveProgramming\NodeMachine2\NodeMachine2\bin\Debug\netcoreapp3.1\NodeMachine2.dll
+D:\Programeren\AdaptiveProgramming\NodeMachine2\NodeMachine2\bin\Debug\netcoreapp3.1\NodeMachine2.pdb
+D:\Programeren\AdaptiveProgramming\NodeMachine2\NodeMachine2\obj\Debug\netcoreapp3.1\NodeMachine2.dll
+D:\Programeren\AdaptiveProgramming\NodeMachine2\NodeMachine2\obj\Debug\netcoreapp3.1\NodeMachine2.pdb
+D:\Programeren\AdaptiveProgramming\NodeMachine2\NodeMachine2\obj\Debug\netcoreapp3.1\NodeMachine2.genruntimeconfig.cache
